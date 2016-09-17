@@ -16,5 +16,7 @@ If no region code provided then defaults to NA. Other codes include JPN(Japan), 
 
 After playing the pokemon games on 3DS and putting them away I realized months later that I missed an event. I created this to automate the process of creating calendar events to remind me of an upcoming distribution event.
 
+![alt tag](automate_all_the_things.jpg)
+
 #Requirements:
 Python, BeautifulSoup4, requests, ics (http://icspy.readthedocs.io)
